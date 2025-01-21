@@ -28,7 +28,19 @@ and 2,303 hazy images in 256*256 size from FLAME2 dataset.
 </div>  
 
 Download address `https://pan.baidu.com/s/1kas1RcjRx4q-fEHL_S0gZQ?pwd=gbib`  
-password: `gbib`
+Password : `gbib`
+
+### Fo-HAZE
+`Fo-HAZE` is a pairwise dehazing dataset generated from SMOKE dataset after HCGAN model. It contains 1888 pairs of images for training and 200 pairs of images for testing.
+
+
+<div style="text-align: center">
+<img alt="" src="images/image1.jpg" style="display: inline-block;" />
+</div>  
+
+Download address `https://pan.baidu.com/s/1MGYt9mv1iPmaPlWqLo0tRA?pwd=gys7`
+
+Password : `gys7` 
 
 ## Acknowledgement
 We thank the authors of [Res2Net](https://mmcheng.net/res2net/), [MWCNN](https://github.com/lpj0/MWCNN.git), and [KTDN](https://github.com/GlassyWu/KTDN). Part of our code is built upon their modules.
