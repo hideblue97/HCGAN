@@ -43,4 +43,4 @@ Download address `https://pan.baidu.com/s/1MGYt9mv1iPmaPlWqLo0tRA?pwd=gys7`
 Password : `gys7` 
 
 ## Acknowledgement
-We thank the authors of [Res2Net](https://mmcheng.net/res2net/), [MWCNN](https://github.com/lpj0/MWCNN.git), and [KTDN](https://github.com/GlassyWu/KTDN). Part of our code is built upon their modules.
+We thank the authors of [CycleDehaze](https://github.com/engindeniz/Cycle-Dehaze), [ResidualDenseNet](https://github.com/lizhengwei1992/ResidualDenseNetwork-Pytorch). Part of our code is built upon their modules.
