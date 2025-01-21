@@ -22,6 +22,10 @@ dataset, a collection of side-by-side infrared and visible spectral video pairs 
 during an open-canopy prescribed fire in northern Arizona in
 2021. We have cut out 2,088 haze-free images
 and 2,303 hazy images in 256*256 size from FLAME2 dataset.  
+<div style="text-align: center">
+<img alt="" src="/Image/validation.png" style="display: inline-block;" />
+</div>
+ 
 Download address `https://pan.baidu.com/s/1kas1RcjRx4q-fEHL_S0gZQ?pwd=gbib`  
 password: `gbib`
 
